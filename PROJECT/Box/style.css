@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.item{
+    background-color:azure ;
+    font-size: 25px;
+    padding: 30px;
+    margin: 30px;
+}

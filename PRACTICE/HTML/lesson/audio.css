@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(119, 66, 66);
+    width: 100%;
+}
+
+.navbar{font-weight: 300px;
+    font-size: large;
+    color: white;
+}
+.navicon{
+    color: white;
+    width: 500px;
+    font-weight: 500px;
+    font-size: 30px;
+}
+.signup{
+    color: gray;
+    margin-left: 1400px;
+    padding-right: 15px;
+    font-weight: bolder;
+}
+.button{
+    background-color: white;
+    border-color: white;
+    font-size: medium;
+    box-sizing: 50px;
+    border-radius: 5px;
+}
+.containers{
+    display: flex;
+    flex-direction: row;
+  margin: 5px;
+  color: white;
+}
+.name{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.image{
+    margin: 20px;
+
+}
+.img{
+    border-radius: 100%;
+}
+.badge{
+    color: rgb(32, 185, 245);
+}
+.new{
+    color: greenyellow;
+    font-size: 60px;
+    position: relative;
+    float: left;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-right: 10px;
+  gap: 50px;
+
+}
+.click{
+   margin-left: 20px;
+ padding-top: 20px;
+}
+.point{
+    font-weight: bolder;
+    color: white;
+    margin-left: 10PX;
+}
+.artist{
+    border-radius: 100%;
+    margin-top: 15px;
+}
+.page{
+    color: white;
+    background-color: rgb(104, 71, 71);
+    margin-top: 20px;
+    width: 800px;
+    border-radius: 10px;
+}
+.follow{
+    color: white;
+    margin-left: 100px;
+    padding-right: 60px;
+    gap: 50px;
+    row-gap: 70px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.mod{
+    width: 50px;
+    margin-right: 40px;
+    padding-top: 20px;
+}
